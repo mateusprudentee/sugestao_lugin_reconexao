@@ -24,7 +24,7 @@
           </div>
           <div id="topico-content" class="conteudo-topico">
     
-            <span id="intro-text" style="color: #2b2b2b;"><strong>A reconexão em partidas auxiliam na jogabilidade</strong> e permitem que o jogador, ao desconectar de alguma partida pertencente em andamento, ele consiga ao logar novamente no servidor, retornar a partida em andamento. Com o sistema, não é necessário nenhum uso de comandos, basta retornar ao servidor que ele levará a partida em formato de respawn no Bed Wars e na última posição no Sky Wars.</span>
+            <span id="intro-text" style="color: #2b2b2b;"><strong>A reconexão em partidas auxiliam em situações adversas que acabam desconectando o jogador do servidor</strong> e permitem que o jogador, ao desconectar de alguma partida pertencente em andamento, ele consiga ao logar novamente no servidor, retornar a partida em andamento. Com o sistema, não é necessário nenhum uso de comandos, basta retornar ao servidor que ele levará a partida em formato de respawn no Bed Wars e na última posição no Sky Wars.</span>
         <div  class="image"></div>
           <br>
         <span style="color: #2b2b2b;">
